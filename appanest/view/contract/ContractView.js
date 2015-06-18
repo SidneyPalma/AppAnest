@@ -242,7 +242,7 @@ Ext.define( 'AppAnest.view.contract.ContractView', {
                                                 items: [
                                                     {
                                                         xtype: 'label',
-                                                        text: 'Valorar plantões',
+                                                        text: 'Valor Plantões',
                                                         style: {
                                                             color: 'blue;',
                                                             fontSize: '14px;'
